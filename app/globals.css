@@ -23,7 +23,7 @@ h1 {
 }
 
 .li-container {
-  list-style-image: url("../../omom/public/apple.png");
+  /* list-style: none; */
   align-items: center;
   border-left: 2px solid green;
   border-bottom: 4px solid green;
