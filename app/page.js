@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Omu from "@/public/Omu.jpg";
+import Omu from "@/public/omu.jpg";
 export default function Home() {
   return (
     <div className="main-container">
